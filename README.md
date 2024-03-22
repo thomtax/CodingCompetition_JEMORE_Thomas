@@ -1,7 +1,8 @@
 # Coding Competition JEMORE
 
-10 teams of 5 people compete in a speed programming competition
-2 days time limit
+10 teams of 5 people compete in a speed programming competition, 2 days time limit
+
+4 pm 23/03/2024 the competition ends
 
 ## Exercises
 
@@ -18,6 +19,8 @@ chat gpt doesn't work.
 ## External links
 
 [codingjam.jemore.it](http://codingjam.jemore.it/)
+
+[primo es](http://codingjam.jemore.it/primo_tag)
 
 ### Sponsors of the event
 
