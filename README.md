@@ -6,10 +6,13 @@
 ## Exercises
 
 Every exercise has a quick 10s solution.
-The bruteforce solution takes 4h/5h
-chat gpt doesn't work
+
+The bruteforce solution takes 4h/5h.
+
+chat gpt doesn't work.
 
 * ES 4
+  
   needs numbers over 64 bit 
 
 ## External links
